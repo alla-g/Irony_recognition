@@ -7,7 +7,7 @@ Code and data for my 3rd year thesis "Distributional semantic models in sarcasm 
 - Feature distribution and models.ipynb - example visualizations of feature distribution + building and assessing logreg models
 
 #### Data folder:  
-- raw_texts.csv - raw texts parsed from Pikabu.ru
+- raw_texts.csv - raw texts parsed from Pikabu.ru *(warning: strong language)*
 - train_corpus.csv - annontated corpus for training models (8 956 sentences)
 - test_corpus.csv - annontated corpus for assessing models (100 sentences)
 - train_features.csv - balanced training corpus with features (2 002 sentences)
